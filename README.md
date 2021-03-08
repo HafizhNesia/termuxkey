@@ -27,7 +27,7 @@
 
 * [`Developer`](wa.me/6285741056111)
 
-## Donate Me!
+## Please Donate Me!
 
 
 * [`Saweria`](https://saweria.co/doraemonbot)
