@@ -40,7 +40,7 @@
 * `$ pkg install git`
 * `$ git clone https://github.com/MrHafizhDev/termuxkey`
 * `$ cd termuxkey`
-* `$ python termuxkey.py`
+* `$ python terkey.py`
 
 ## Special Thanks to
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
