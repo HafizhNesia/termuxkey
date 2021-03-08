@@ -141,4 +141,4 @@ if __name__=='__main__':
   terkey = Terkey()
   terkey.start()
 # ini cuma shortcut buat bantu para nub/pemula
-# AGUSZHAFIZH GANZ NO DEBAT AND SPAM
+# HAFIZH GANZ NO DEBAT AND SPAM
