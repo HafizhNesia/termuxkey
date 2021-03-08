@@ -23,7 +23,7 @@
 * [`WhatsApp`](https://wa.me/6285741056111)
 * [`GitHub`](https://github.com/MrHafizhDev)
 
-## Developer Script Terkey
+## Developer Script Termux Key
 
 * [`Developer`](wa.me/6285741056111)
 
@@ -39,8 +39,8 @@
 * `$ pkg install python`
 * `$ pkg install git`
 * `$ git clone https://github.com/MrHafizhDev/termuxkey`
-* `$ cd terkey`
-* `$ python terkey.py`
+* `$ cd termuxkey`
+* `$ python termuxkey.py`
 
 ## Special Thanks to
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
