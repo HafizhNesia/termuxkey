@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/axfcap/axfcap/main/20210127_212936.jpg" width="400px"/>
+  <img src="https://raw.githubusercontent.com/MrHafizhDev/MrHafizhDev/main/20210127_212936.jpg" width="400px"/>
 </p>
 <p align="center">
-<a href="#"><img title="AGUSZ PAKEZ" src="https://img.shields.io/badge/AGUSZ PAKEZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="HAFIZH GANZ PAKAI Z" src="https://img.shields.io/badge/HAFIZH GANZ PAKAI Z-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/axfcap"><img title="Author" src="https://img.shields.io/badge/Author-MancaCansred.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MrHafizhDev"><img title="Author" src="https://img.shields.io/badge/Author-MancaCansred.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/axfcap"><img title="Followers" src="https://img.shields.io/github/followers/XP-TN?color=blue&style=flat-square"></a>
@@ -17,23 +17,35 @@
 </p>
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif"/>
 
-## Sosial media
-* [`YouTube`](https://youtube.com/channel/UCKP-E8RwFkJKhe-9uz0s9RQ)
+## Sosial Media Developer
+* [`YouTube`](https://youtu.be/mwjTn5Th8LI)
 * [`Instagram`](https://Instagram.com/hafizh.021y/)
+* [`WhatsApp`](https://wa.me/6285741056111)
+* [`GitHub`](https://github.com/MrHafizhDev)
 
-## How to install
+## Developer Script Terkey
+
+* [`Developer`](wa.me/6285741056111)
+
+## Donate Me!
+
+
+* [`Saweria`](https://saweria.co/doraemonbot)
+* [`Trakteer`](https://trakteer.id/doraemonbot)
+
+## Cara Install
 
 * `$ pkg update && pkg upgrade`
 * `$ pkg install python`
 * `$ pkg install git`
-* `$ git clone https://github.com/axfcap/terkey`
+* `$ git clone https://github.com/MrHafizhDev/terkey`
 * `$ cd terkey`
 * `$ python terkey.py`
 
 ## Special Thanks to
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Hafizh`
+* [`Hafizh`](https://github.com/MrHafizhDev)
+* [`Support`](https://github.com/Mrhafizh21)
 
 
-## owner
-* [`WhatsApp`](wa.me/6289694354394)
+
