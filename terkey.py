@@ -14,8 +14,8 @@ class Terkey:
   # Banner
   def banner(self):
       os.system('clear')
-      print(f'{c}TOMBOL KANAN-KIRI {a}[{c}Termux Key{a}]'.center(68))
-      print(f'{a} jangan lupa subscribe channel AGUSZ PAKEZ ^_^'.center(53))
+      print(f'{c}TOMBOL TERMUX KEY BY HAFIZH GANZ NO DEBAT {a}[{c}Termux Key{a}]'.center(68))
+      print(f'{a} Jangan Cuman Makai Doang Subscribe Dong channel Doraemon Bot Official ^_^'.center(53))
       print("".join([i for i in "\n"*3]))
       
   # Loading animation   
@@ -64,21 +64,21 @@ class Terkey:
   def about(self):
     self.banner()
     print(f"""
-    {a}W E L C O M E  !{c}
+    {a}W E L C O M E B A C K !{c}
     
     This is Terkey, yeah, Termux Key !
-    A program from {a}AGUSZ PAKEZ{c} for you.
+    A program from {a}HAFIZH GANZ NO DEBAT{c} for you.
     This tool is only for Termux app and absolutely FREE !
     
     You can find all default keys in this program at
     {a}https://wiki.termux.com/wiki/Touch_Keyboard{c}
     
     Want to chat with me ?
-    {a}https://instagram.com/axfc_ap{c}
+    {a}https://instagram.com/hafizh.021y/{c}
     My channel YouTube
-    {a}https://youtube.com/c/AGUSZPAKEZ{c}
+    {a}https://youtu.be/mwjTn5Th8LI{c}
     And if we need a donation from you
-    {a}wa.me/6289694354384{c}
+    {a}wa.me/6285741056111{c}
     
     """
     )
@@ -136,9 +136,9 @@ class Terkey:
       self.about()
     else:
       pass
-    #print(c+'Silahkan hubungi '+a+'https://t.me/AGUSZPAKEZ'+c+' jika ada yang mau di bicarakan terkait tool ini, bisnis atau sekedar bertanya kabar. :v\nTerimakasih ^_^')
+    #print(c+'Silahkan hubungi '+a+'https://t.me/MrHafizhDev'+c+' jika ada yang mau di bicarakan terkait tool ini, bisnis atau sekedar bertanya kabar. :v\nTerimakasih ^_^')
 if __name__=='__main__':
   terkey = Terkey()
   terkey.start()
 # ini cuma shortcut buat bantu para nub/pemula
-# AGUSZ PAKEZ
+# AGUSZHAFIZH GANZ NO DEBAT AND SPAM
