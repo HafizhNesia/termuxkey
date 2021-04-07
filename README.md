@@ -35,18 +35,18 @@
 
 ## Cara Install
 ```
-* $ pkg update && pkg upgrade
-* $ pkg install python
-* $ pkg install git
-* $ git clone https://github.com/MrHafizhDev/termuxkey`
-* $ cd termuxkey
-* $ python terkey.py
+* $pkg update && pkg upgrade
+* $pkg install python
+* $pkg install git
+* $git clone https://github.com/MrHafizhDev/termuxkey
+* $cd termuxkey
+* $python terkey.py
 ```
 
 ## Cara Pakai
 ```
 * $ pilih aja tuh tanda tandanya
-* $ terus enter bang kalo gk enter ke mana lagi
+* $ terus enter bang kalo gk enter ke mana lagi comly?
 * $ refresh termux nya om
 * $ dah jadi...
 ```
@@ -56,5 +56,7 @@
 * [`Hafizh`](https://github.com/MrHafizhDev)
 * [`Support`](https://github.com/Mrhafizh21)
 
-
+const 
+//entah
+case
 
