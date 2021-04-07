@@ -19,7 +19,8 @@
 
 ## Sosial Media Developer
 * [`YouTube`](https://youtu.be/mwjTn5Th8LI)
-* [`Instagram`](https://Instagram.com/hafizh.021y/)
+* [`Instagram`](https://Instagram.com/hafizh.021y)
+* [`Group WhatsApp`](coming soon om hehehe)
 * [`WhatsApp`](https://wa.me/6285741056111)
 * [`GitHub`](https://github.com/MrHafizhDev)
 
@@ -35,28 +36,24 @@
 
 ## Cara Install
 ```
-* $pkg update && pkg upgrade
-* $pkg install python
-* $pkg install git
-* $git clone https://github.com/MrHafizhDev/termuxkey
-* $cd termuxkey
-* $python terkey.py
+$pkg update && pkg upgrade
+$pkg install python
+$pkg install git
+$git clone https://github.com/MrHafizhDev/termuxkey
+$cd termuxkey
+$python terkey.py
 ```
 
 ## Cara Pakai
 ```
-* $ pilih aja tuh tanda tandanya
-* $ terus enter bang kalo gk enter ke mana lagi comly?
-* $ refresh termux nya om
-* $ dah jadi...
+pilih aja tuh tanda tandanya
+terus enter bang kalo gk enter ke mana lagi comly?
+refresh termux nya om
+dah jadi...
 ```
 
 ## Special Thanks to
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Hafizh`](https://github.com/MrHafizhDev)
 * [`Support`](https://github.com/Mrhafizh21)
-
-const 
-//entah
-case
 
