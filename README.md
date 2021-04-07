@@ -20,7 +20,7 @@
 ## Sosial Media Developer
 * [`YouTube`](https://youtu.be/mwjTn5Th8LI)
 * [`Instagram`](https://Instagram.com/hafizh.021y)
-* [`Group WhatsApp`](coming soon om hehehe)
+* [`GroupWA`](https://wa.me/6285741056111?text=minta+link+gc+lu+om)
 * [`WhatsApp`](https://wa.me/6285741056111)
 * [`GitHub`](https://github.com/MrHafizhDev)
 
