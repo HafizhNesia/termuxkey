@@ -35,13 +35,22 @@
 
 ## Cara Install
 ```
-* `$ pkg update && pkg upgrade`
-* `$ pkg install python`
-* `$ pkg install git`
-* `$ git clone https://github.com/MrHafizhDev/termuxkey`
-* `$ cd termuxkey`
-* `$ python terkey.py`
+* $ pkg update && pkg upgrade
+* $ pkg install python
+* $ pkg install git
+* $ git clone https://github.com/MrHafizhDev/termuxkey`
+* $ cd termuxkey
+* $ python terkey.py
 ```
+
+## Cara Pakai
+```
+* $ pilih aja tuh tanda tandanya
+* $ terus enter bang kalo gk enter ke mana lagi
+* $ refresh termux nya om
+* $ dah jadi...
+```
+
 ## Special Thanks to
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Hafizh`](https://github.com/MrHafizhDev)
