@@ -49,6 +49,7 @@ $python terkey.py
 script nya akan eror ya bang hehe
 Mungkin Segitu aja kali ya dri gw 🗿
 ```
+
 ## Cara Pakai
 ```
 pilih aja tuh tanda tandanya
