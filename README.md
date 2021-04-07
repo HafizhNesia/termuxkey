@@ -34,14 +34,14 @@
 * [`Trakteer`](https://trakteer.id/doraemonbot)
 
 ## Cara Install
-
+```
 * `$ pkg update && pkg upgrade`
 * `$ pkg install python`
 * `$ pkg install git`
 * `$ git clone https://github.com/MrHafizhDev/termuxkey`
 * `$ cd termuxkey`
 * `$ python terkey.py`
-
+```
 ## Special Thanks to
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Hafizh`](https://github.com/MrHafizhDev)
