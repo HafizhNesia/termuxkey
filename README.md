@@ -45,7 +45,8 @@ $python terkey.py
 ```
 
 ## Alert Saat Install
-````Jangan Pakai Tanda [ $ ] bila anda pakai tanda itu maka
+````
+Jangan Pakai Tanda [ $ ] bila anda pakai tanda itu maka
 script nya akan eror ya bang hehe
 Mungkin Segitu aja kali ya dri gw 🗿
 ```
